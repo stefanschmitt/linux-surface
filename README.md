@@ -26,6 +26,7 @@ Follow the instructions below to install the latest kernel.
 * Surface Pro 7+
 * Surface Pro 8
 * Surface Studio
+* Surface Pro X (ARM64/AARCH64)
 
 ### Features / What's Working
 
